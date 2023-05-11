@@ -1,0 +1,14 @@
+#screen{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 8em;
+
+}
+
+body{
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-image: url('../assets/Background.png');
+  background-size: cover;
+}
